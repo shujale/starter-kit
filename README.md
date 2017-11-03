@@ -1,2 +1,2 @@
-# starter-kit
-A starter kit for every project
+# Starter-kit
+Use this structure for every small project 
